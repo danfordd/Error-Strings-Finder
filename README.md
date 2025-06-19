@@ -39,4 +39,4 @@ DetectName---String
 
 ---
 
-Maintained by [danfordd](https://github.com/danfordd)
+You can also find it at [notscreenshare](https://github.com/notscreenshare)

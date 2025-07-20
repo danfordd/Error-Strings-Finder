@@ -14,7 +14,6 @@ https://github.com/user-attachments/assets/4864b8b3-f72e-46fd-bc4e-5a48f0920b2a
 ---
 
 ### **Compile:**
-##### You can compile ESF
 ```sh
 $ ./compile.sh
 ```

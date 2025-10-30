@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/4864b8b3-f72e-46fd-bc4e-5a48f0920b2a
 ---
 ### **Shell (recommended)**
 ```sh
-curl -sSL https://raw.githubusercontent.com/notscreenshare/ErrorStringFinder/refs/heads/main/download-and-run.sh | bash
+curl -sSL https://raw.githubusercontent.com/danfordd/ErrorStringFinder/refs/heads/main/download-and-run.sh | bash
 ```
 
 ### **Compile:**
